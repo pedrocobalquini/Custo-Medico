@@ -7,6 +7,9 @@ Este projeto foi feito com um dataset do Kaggle sobre custo médico para curar d
 ## Etapas do projeto
 
 1 - limpeza dos dados
+
 2 - visualização dos dados
+
 3 - Comparações entre as colunas
+
 4 - Conclusão
